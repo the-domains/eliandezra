@@ -1,0 +1,28 @@
+name: EliAndEzra
+favicon: null
+layout_spectrum: 0.6602128311060369
+typography_spectrum: 0.5838449236471206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6687562274746597
+  lightness: 0.6680940801743418
+  saturation: 0.861470605013892
+  rhythmicContrast: 0.405941053526476
+purpose: []
